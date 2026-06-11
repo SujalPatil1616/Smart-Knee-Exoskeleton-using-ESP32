@@ -58,7 +58,7 @@ The ESP32 acts as the central controller of the system. Motion data from the MPU
 
 ## Hardware Prototype
 
-<img src="images/hardware_setup.jpg" width="500">
+<img src="https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32/blob/main/Hardware.png" width="500">
 
 The prototype consists of an ESP32-based control unit mounted on a wearable knee support structure. The servo mechanism provides controlled knee assistance, while sensors continuously monitor movement and system status.
 
