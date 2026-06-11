@@ -50,7 +50,7 @@ The exoskeleton features Bluetooth Low Energy (BLE) connectivity, allowing users
 
 ## System Architecture
 
-<img src="images/block_diagram.png" width="700">
+<img src="https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32/blob/main/Block%20Diagram.png" width="700">
 
 The ESP32 acts as the central controller of the system. Motion data from the MPU6050 sensor is continuously processed to determine the user's leg movement and posture. Based on the detected motion, the ESP32 controls the MG996R servo motor to provide assistive torque. The OLED display presents real-time system information, while Bluetooth communication enables wireless monitoring and control through the web application.
 
