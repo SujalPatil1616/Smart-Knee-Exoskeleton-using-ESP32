@@ -68,9 +68,9 @@ The prototype consists of an ESP32-based control unit mounted on a wearable knee
 
 ### Dashboard Interface
 
-<img src="https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32/blob/main/app1.png" width="500">
+<img src="https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32/blob/main/app1.png" width="700">
 
-<img src="images/web_dashboard_2.jpg" width="500">
+<img src="https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32/blob/main/app2.png" width="700">
 
 The Progressive Web Application (PWA) enables:
 
