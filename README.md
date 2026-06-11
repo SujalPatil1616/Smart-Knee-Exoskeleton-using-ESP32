@@ -188,7 +188,7 @@ The system automatically detects user movement and provides assistive torque wit
 
 The following video demonstrates the working of the Smart Knee Exoskeleton system, including manual control, automatic assistance mode, and Bluetooth-based operation.
 
-[▶ Watch Demo](demo.mp4)
+[▶ Watch Demo](demo.mp4)https://github.com/SujalPatil1616/Smart-Knee-Exoskeleton-using-ESP32/blob/main/demo.mp4
 
 ## Conclusion
 
